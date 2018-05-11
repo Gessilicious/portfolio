@@ -1,0 +1,16 @@
+
+http://blog.webbb.be/trigger-css-animation-scroll/
+
+https://michalsnik.github.io/aos/
+
+https://github.com/terwanerik/ScrollTrigger
+
+https://github.com/michalsnik/aos
+
+https://stackoverflow.com/questions/16325679/activate-css3-animation-when-the-content-scrolls-into-view#16327815
+
+http://dimsemenov.com/plugins/magnific-popup/
+
+https://daneden.github.io/animate.css/
+
+https://isotope.metafizzy.co/layout.html
